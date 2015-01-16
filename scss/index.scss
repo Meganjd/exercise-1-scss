@@ -1,8 +1,7 @@
-@-moz-viewport { width: device-width; scale: 1; }
-@-ms-viewport { width: device-width; scale: 1; }
-@-o-viewport { width: device-width; scale: 1; }
-@-webkit-viewport { width: device-width; scale: 1; }
-@viewport { width: device-width; scale: 1; }
+$font-stack:    'Muli', Helvetica, sans-serif;
+$primary-color: #3EAF76;
+$secondary-color: #2B7A53; 
+$hover-color: #4DDB94;
 
 html {
 	box-sizing: border-box;
@@ -59,13 +58,13 @@ a:link {
 
 .icon-flower {
 	font-size: 50px;
-	color: #C8EBDA;
+	color: #FFFFF;
 
 }
 
 .icon-leaf {
 	font-size: 50px;
-	color: #C8EBDA;
+	color: #FFFFF;
 	
 }
 
